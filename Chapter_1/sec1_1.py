@@ -1,6 +1,6 @@
 """
-ID: your_id_here
-LANG: PYTHON2
+ID: jpgalla1
+LANG: PYTHON3
 TASK: test
 """
 fin = open ('test.in', 'r')
